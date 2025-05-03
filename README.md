@@ -23,7 +23,7 @@ A lightweight, web-based inventory management system built using Java Spring Boo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/inventory-manager.git
+   git clone https://github.com/Gupta2501/inventory-manager.git
    ```
 2. Configure MySQL database in `application.properties`
 3. Build and run the app:
